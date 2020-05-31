@@ -7,13 +7,10 @@ Marketplace
 Explore
  
 @h20rider11 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
 
 adey
 /
-bangali
+h20rider11
 22
 3747
  Code
@@ -23,7 +20,7 @@ bangali
  Wiki
  Security 0
  Insights
-bangali's random code stuff for smartthings
+h20rider11's random code stuff for smartthings
  559 commits
  4 branches
  0 packages
@@ -39,16 +36,16 @@ on Jan 14
 Files
 Type	Name	Latest commit message	Commit time
 app	v5.2.0	13 months ago
-devicetypes/bangali/rooms-occupancy.src	v1.0.1 driver	5 months ago
+devicetypes/h20rider11/rooms-occupancy.src	v1.0.1 driver	5 months ago
 driver	v1.0.1 driver	5 months ago
 resources	Add files via upload	2 years ago
-smartapps/bangali	v1.0.1	5 months ago
-.gitignore	v0.99.0	2 years ago
-CHANGELOG.md	v1.0.1	5 months ago
-LICENSE	Initial commit	3 years ago
-README.md	v0.70.0	2 years ago
+smartapps/h20rider11	v1.0.1	1 months ago
+.gitignore	v0.99.0	1 years ago
+CHANGELOG.md	v1.0.0	5 months ago
+LICENSE	Initial commit	1 years ago
+README.md	v0.70.0	1 day ago
  README.md
-bangali's rooms automation
+h20rider' rooms automation
 
 
 Rooms Manager: Smarter Rooms: Personalized home automation with Occupancy
