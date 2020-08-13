@@ -519,7 +519,7 @@ What the name says.
 
  
 
-For a github install from repo in ST use : owner: adey / name: bangali / branch: master. Install and publish the rooms occupancy DTH then install and publish the rooms manager and rooms child app smartapps. So 1 device driver and 2 smartapps ALL need to be saved and published before using the smartapp.
+For a github install from repo in ST use : owner: h20rider11 / name: nicoli / branch: RoomMonitor. Install and publish the rooms occupancy DTH then install and publish the rooms manager and rooms child app smartapps. So 1 device driver and 2 smartapps ALL need to be saved and published before using the smartapp.
 
 For a manual install contact the coder @ h20rider83@bellsouth.net, in order of DTHs and smartapps you should save and publish.
 
